@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rudiansyah Adi Prasetyo 10120001</string>
+    <string name="title_home">Home</string>
+    <string name="title_note">Notes</string>
+    <string name="title_information">information</string>
+    <string name="title_activity_splash_screen" />
+</resources>
